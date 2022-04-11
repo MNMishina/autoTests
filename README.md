@@ -2,3 +2,5 @@
 Автотесты на Python+Selenium WebDriver
 https://stepik.org/course/575/syllabus
 Page Object pattern
+
+text
